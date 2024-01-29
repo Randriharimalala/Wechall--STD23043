@@ -31,6 +31,16 @@
   - ls -al
   - cat .bash_history
     >solution: RepeatingHistory
+  # level 04:
+  - ls
+  - cat README.nfo
+  - cd ~
+  - ls -al
+  - chmod 700 README2.md
+  - ls
+  - cat README2.md
+    >solution: AndOfCourseIDoKnowChown
+    
     
    
   
