@@ -16,5 +16,15 @@
 - cd patience
 - cat SOLUTION.txt
    >solution:patience
+  # level 02:
+  - ls
+  - cd photo
+  - cd ..
+  - ls -al
+  - cd .porb
+  - ls
+  - ls -al
+  - cat .solution
+    >solution: HiddenIsConfig
    
   
