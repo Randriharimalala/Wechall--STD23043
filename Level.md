@@ -1,4 +1,7 @@
-# level00 :
+# level 00 :
 - ls
 - cat README.md
-- bbitwarrior 
+>solution: bitwarrior
+# level 01:
+
+  
