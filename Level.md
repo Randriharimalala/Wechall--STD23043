@@ -1,4 +1,4 @@
 # level00 :
-ls
-cat README.md
-bitwarrior 
+- ls
+- cat README.md
+- bbitwarrior 
