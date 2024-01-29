@@ -1,5 +1,5 @@
 /home/level
-ls
+- ls
 # level 00 :
 - cd 00_welcome
 - ls
