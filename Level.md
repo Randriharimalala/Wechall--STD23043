@@ -26,5 +26,11 @@
   - ls -al
   - cat .solution
     >solution: HiddenIsConfig
+  # level 03:
+  - ls
+  - ls -al
+  - cat .bash_history
+    >solution: RepeatingHistory
+    
    
   
