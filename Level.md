@@ -4,7 +4,7 @@
 - cd 00_welcome
 - ls
 - cat README.md
->solution: bitwarrior
+>get solution
 # level 01:
 - cd 01_choice_tree
 - ls
@@ -19,7 +19,7 @@
 - ls
 - cd patience
 - cat SOLUTION.txt
-   >solution:patience
+   >solution founded
   # level 02:
   - cd 02
   - ls
@@ -30,13 +30,13 @@
   - ls
   - ls -al
   - cat .solution
-    >solution: HiddenIsConfig
+    >get solution
   # level 03:
   - cd 03
   - ls
   - ls -al
   - cat .bash_history
-    >solution: RepeatingHistory
+    >solution found
   # level 04:
   - cd 04_kwisatz
   - ls
@@ -46,12 +46,12 @@
   - chmod 700 README2.md
   - ls
   - cat README2.md
-    >solution: AndOfCourseIDoKnowChown
+    >solution aquied
   # level 05:
   - cd 05_privacy
   - ls
   - cat README.md
-    >solution: OKPRIVATE
+    >solution getting
     
     
    
