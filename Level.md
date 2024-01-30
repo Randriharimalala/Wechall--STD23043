@@ -36,7 +36,7 @@
   - ls
   - ls -al
   - cat .bash_history
-    >solution found
+    >solution founded
   # level 04:
   - cd 04_kwisatz
   - ls
@@ -52,6 +52,7 @@
   - ls
   - cat README.md
     >solution getting
+    
     
     
    
